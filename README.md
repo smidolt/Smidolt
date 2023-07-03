@@ -39,7 +39,7 @@ I have <b>4</b> years of experience in IT, during which I’ve gained experience
 <h3>OS and special devices:</h3>
 
 ![RaspberryPi](https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 <h3>Other:</h3>
 
