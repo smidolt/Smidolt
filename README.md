@@ -1,6 +1,6 @@
 Hello everyone my name is Maksim and I’m passionate about trading and coding!
 
-- :pushpin: I’m looking for a company where I can work on machine learning, web development or smart contracts
+- :pushpin: I’m looking for a company where I can work on machine learning,Data Engineering, web development or smart contracts
 - 🌱 I’m currently learning R
 - 🗣 I speak 🇬🇧 English, :ru: Russian. I’m currently learning :slovenia: Slovenian
 - :earth_americas: I’m currently located in Slovenia (Ljubljana)
