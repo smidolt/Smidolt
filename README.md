@@ -17,7 +17,6 @@ I have <b>4</b> years of experience in IT, during which I’ve gained experience
 
 [![Pytorch](https://img.shields.io/badge/pytorch-white?style=for-the-badge&logo=pytorch&logoColor=FF6F00)](https://pytorch.org/)
 [![Tensorflow](https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/ )
-[![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![Opencv](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8)](https://opencv.org/)
 <h3>Data Engineering:</h3>
@@ -25,7 +24,6 @@ I have <b>4</b> years of experience in IT, during which I’ve gained experience
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matlab](https://img.shields.io/badge/matlab-white?style=for-the-badge&logo=matlab&logoColor=0076A8)](https://www.mathworks.com/products/matlab.html)
-[![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
 [![Hadoop](https://img.shields.io/badge/Hadoop-D22128?style=for-the-badge&logo=apache-hadoop&logoColor=white)](https://hadoop.apache.org/)
 
 <h3>Databases:</h3>
