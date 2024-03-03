@@ -12,7 +12,7 @@ I have <b>4</b> years of experience in IT, during which I’ve gained experience
 
 [![Python](https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=Python&logoColor=yellow)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://www.r-project.org/)
-[![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity&logoColor=E363636)](https://docs.soliditylang.org/en/v0.8.10/)
 <h3>Machine Learning + CV:</h3>
 
 [![Pytorch](https://img.shields.io/badge/pytorch-white?style=for-the-badge&logo=pytorch&logoColor=FF6F00)](https://pytorch.org/)
@@ -32,21 +32,10 @@ I have <b>4</b> years of experience in IT, during which I’ve gained experience
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-<h3>Web Development:</h3>
-
-[![Django](https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=092E20)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=000000)](https://flask.palletsprojects.com/en/2.0.x/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Vuejs](https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Nodejs](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Testinglibrary](https://img.shields.io/badge/testinglibrary-black?style=for-the-badge&logo=testinglibrary&logoColor=E33332)](https://testing-library.com/)
 
 <h3>Version Control + Containers:</h3>
 
 [![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/ )
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/ )
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ )
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 
@@ -57,7 +46,6 @@ I have <b>4</b> years of experience in IT, during which I’ve gained experience
 
 <h3>Other:</h3>
 
-[![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity&logoColor=E363636)](https://docs.soliditylang.org/en/v0.8.10/)
 [![Ffmpeg](https://img.shields.io/badge/ffmpeg-white?style=for-the-badge&logo=ffmpeg&logoColor=007808)](https://ffmpeg.org/ )
 [![CSharp](https://img.shields.io/badge/csharp-white?style=for-the-badge&logo=csharp&logoColor=239120)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
