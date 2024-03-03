@@ -6,7 +6,7 @@ Hello everyone my name is Maksim and I’m passionate about trading and coding!
 - :earth_americas: I’m currently located in Slovenia (Ljubljana)
 - 📫 You can reach me by email - smidolty@gmail.com
 
-I have <b>4</b> years of experience in IT, during which I’ve gained experience with the following:
+With over <b>4</b>  years of IT experience, I currently specialise in the following technologies:
 <h2 align="center">My Skill Set </h2>
 <h3>Programming Languages:</h3>
 
