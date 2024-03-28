@@ -1,7 +1,7 @@
 Hello everyone my name is Maksim and I’m passionate about trading and coding!
 
 - :pushpin: I'm looking for a company where I can work as an algorithmic/quant trading developer.
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R, Solidity
 - 🗣 I speak 🇬🇧 English, :ru: Russian. I’m currently learning :slovenia: Slovenian
 - :earth_americas: I’m currently located in Slovenia (Ljubljana)
 - 📫 You can reach me by email - smidolty@gmail.com
