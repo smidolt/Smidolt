@@ -40,10 +40,10 @@ With over <b>4</b>  years of IT experience, I currently specialise in the follow
 
 <h3>Databases:</h3>
 
-[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sql&logoColor=E33332)](https://www.w3schools.com/sql/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=E33332)](https://www.mongodb.com/)
 [![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=E33332)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=E33332)](https://www.mysql.com/)
+[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sql&logoColor=E33332)](https://www.w3schools.com/sql/)
 
 <h3>Version Control + Containers:</h3>
 
