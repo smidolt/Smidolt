@@ -60,7 +60,7 @@ With over <b>4</b>  years of IT experience, I currently specialise in the follow
 
 [![Ffmpeg](https://img.shields.io/badge/ffmpeg-black?style=for-the-badge&logo=ffmpeg&logoColor=E33332)](https://ffmpeg.org/)
 [![CSharp](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=E33332)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![TestingLib](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=testinglibrary&logoColor=E33332)](https://testing-library.com/docs/react-testing-library/intro/)
+[![TestingLib](https://img.shields.io/badge/TestingLib-black?style=for-the-badge&logo=testinglibrary&logoColor=E33332)](https://testing-library.com/docs/react-testing-library/intro/)
 
 
 
