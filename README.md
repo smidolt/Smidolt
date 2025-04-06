@@ -3,6 +3,7 @@
 I specialize in tearing down Solidity contracts, simulating real exploits, and transforming vulnerabilities into hardened defenses.
 **Primarily an auditor,** I'm also **open** to **smart contract development** roles that demand **high security standards.**
 
+
 ## Focus
 - **Attack Simulations**: Rebuilding actual DeFi/NFT exploits with Foundry  
 - **Deep EVM**: Calldata edge cases, gas griefing, storage collisions  
@@ -18,14 +19,15 @@ I specialize in tearing down Solidity contracts, simulating real exploits, and t
 
 ## Core Security Tools
 
-[![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)](https://docs.soliditylang.org/)
-[![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=cloudfoundry)](https://github.com/foundry-rs/foundry)
-[![Slither](https://img.shields.io/badge/Slither-black?style=for-the-badge)](https://github.com/crytic/slither)
-[![Yul](https://img.shields.io/badge/Yul-black?style=for-the-badge)](https://docs.soliditylang.org/en/latest/yul.html)
-[![Huff](https://img.shields.io/badge/Huff-black?style=for-the-badge)](https://huff.sh/)
-[![Echidna](https://img.shields.io/badge/Echidna-black?style=for-the-badge)](https://github.com/crytic/echidna)
-[![Mythril](https://img.shields.io/badge/Mythril-black?style=for-the-badge)](https://github.com/ConsenSys/mythril)
-[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)](https://www.python.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=E33332)](https://docs.soliditylang.org/)
+[![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=cloudfoundry&logoColor=E33332)](https://github.com/foundry-rs/foundry)
+[![Slither](https://img.shields.io/badge/Slither-black?style=for-the-badge&logoColor=E33332)](https://github.com/crytic/slither)
+[![Yul](https://img.shields.io/badge/Yul-black?style=for-the-badge&logoColor=E33332)](https://docs.soliditylang.org/en/latest/yul.html)
+[![Huff](https://img.shields.io/badge/Huff-black?style=for-the-badge&logoColor=E33332)](https://huff.sh/)
+[![Echidna](https://img.shields.io/badge/Echidna-black?style=for-the-badge&logoColor=E33332)](https://github.com/crytic/echidna)
+[![Mythril](https://img.shields.io/badge/Mythril-black?style=for-the-badge&logoColor=E33332)](https://github.com/ConsenSys/mythril)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=E33332)](https://www.python.org/)
+
 
 
 ---
