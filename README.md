@@ -13,7 +13,7 @@ Method:
 2. Push limits of EVM tools.
 3. Patch only if the design deserves it.
 
-🛠️ Core Arsenal: Foundry, Slither, Huff, Yul, Echidna, Mythril
+Core Arsenal: Foundry, Slither, Huff, Yul, Echidna, Mythril
 
 Want to audit together or test your contracts before they get rekt?  
 📩 smidolty@gmail.com
