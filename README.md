@@ -1,5 +1,3 @@
-> “Everything is breakable.”
-
 I don’t build for fun. I simulate exploits, disassemble protocols, and find the assumptions others miss.
 
 My focus:
