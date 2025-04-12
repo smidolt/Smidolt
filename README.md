@@ -13,5 +13,4 @@ Method:
 
 Core Arsenal: Foundry, Slither, Huff, Yul, Echidna, Mythril
 
-Want to audit together or test your contracts before they get rekt?  
 📩 smidolty@gmail.com
