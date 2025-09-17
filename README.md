@@ -1,4 +1,4 @@
-I don’t build for fun. I simulate exploits, disassemble protocols, and find the assumptions others miss.
+Simulate exploits, disassemble protocols, and find the assumptions others miss.
 
 My focus:
 - Rebuilding famous hacks step-by-step (Foundry-powered)
